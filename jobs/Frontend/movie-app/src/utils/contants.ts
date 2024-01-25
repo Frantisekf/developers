@@ -1,0 +1,1 @@
+export const NUMBER_OF_MOVIES_PER_PAGE = 12
